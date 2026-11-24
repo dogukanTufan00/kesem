@@ -1,0 +1,38 @@
+# Gradle & Build outputs
+.gradle/
+.kotlin/
+build/
+app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+.navigation/
+
+# Local environment & IDE files
+local.properties
+*.iml
+.idea/
+.DS_Store
+Thumbs.db
+
+# Android binaries & artifacts
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+*.hprof
+
+# Keystores & secrets
+*.jks
+*.keystore
+keystore.properties
+google-services.json
+
+# Keep Gradle Wrapper JAR
+!gradle/wrapper/gradle-wrapper.jar
+
+# Yerel calisma ve ajan notlari (GitHub'a gitmez)
+AGENTS.md
+CLAUDE.md
+docs/DEVAM.md

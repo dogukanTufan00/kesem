@@ -1,0 +1,1 @@
+# Kesem ProGuard rules

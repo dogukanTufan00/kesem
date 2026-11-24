@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Minimal geometric wallet body (Warm Ivory) -->
+    <path
+        android:fillColor="#FAF5EE"
+        android:pathData="M30,36c0,-3.31 2.69,-6 6,-6h36c3.31,0 6,2.69 6,6v36c0,3.31 -2.69,6 -6,6H36c-3.31,0 -6,-2.69 -6,-6V36z" />
+    <!-- Subtle top flap accent (Warm Sand-Copper) -->
+    <path
+        android:fillColor="#F0D5C1"
+        android:pathData="M30,39h48v4H30z" />
+    <!-- Wallet clasp pocket -->
+    <path
+        android:fillColor="#A64728"
+        android:pathData="M62,48h16v14H62c-3.87,0 -7,-3.13 -7,-7s3.13,-7 7,-7z" />
+    <!-- Clasp dot -->
+    <path
+        android:fillColor="#FAF5EE"
+        android:pathData="M64,55m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+</vector>
